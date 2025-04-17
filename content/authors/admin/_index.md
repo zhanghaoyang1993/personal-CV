@@ -24,7 +24,7 @@ role: PhD researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: TU/e-Eindhoven Uniersity of Technology
+  - name: TU/e-Eindhoven University of Technology
     url: https://www.tue.nl/en/research/research-groups/electrical-energy-systems/
 
 # Social network links
