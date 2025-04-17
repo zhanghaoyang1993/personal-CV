@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Haoyang Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Haoyang
+last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,69 +20,64 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: TU/e-Eindhoven Uniersity of Technology
+    url: https://openai.com/](https://www.tue.nl/en/research/research-groups/electrical-energy-systems/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:h.zhang2@tue.nl'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/](https://www.instagram.com/haoyang93/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/gcushen](https://github.com/zhanghaoyang1993
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/](https://www.linkedin.com/in/haoyang-zhang-272397138/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5W8ntj-n79eNJHptWmFJdM5XBicVTxgkMzqwieptdUgOkQbJarJrhaaDP8VIHFOckXBYjybV8MzgHkeTgQ5ROfy&user=-BL6CnoAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/](https://orcid.org/my-orcid?orcid=0000-0002-3418-0367
 
 interests:
+  - Electricity market
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Power system
+  - Optimization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Electricity Market Analysis
+    institution: TU/e-Eindhoven Uniersity of Technology
+    date_start: 2021-10-01
+    date_end: 2026 (expected)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Detecting and averting the abuse of market power in local electricity markets via AI_. Supervised by [Nikolaos Paterakis](https://www.tue.nl/en/research/researchers/nikolaos-paterakis) and [Koen Kok](https://www.tue.nl/en/research/researchers/koen-kok).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: ''
+  - area: MSc in Electric Power Engineering
+    institution: KTH-Royal Institute of Technology
+    date_start: 2016-09-01
+    date_end: 2019-02-21
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Electricity Market Analysis
+      - Power Generation, Environment and Markets
+      - Computer Applications in Power Systems
+  - area: BSc in Electrical Engineering & Automation
+    institution: SCUT-South China University of Technology
+    date_start: 2012-09-01
+    date_end: 2016-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.5/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
