@@ -54,7 +54,7 @@ education:
   - area: PhD in Electricity Market Analysis
     institution: TU/e-Eindhoven Uniersity of Technology
     date_start: 2021-10-01
-    date_end: 2026
+    date_end:
     summary: |
       Thesis on _Detecting and averting the abuse of market power in local electricity markets via AI_. Supervised by [Nikolaos Paterakis](https://www.tue.nl/en/research/researchers/nikolaos-paterakis) and [Koen Kok](https://www.tue.nl/en/research/researchers/koen-kok).
     button:
