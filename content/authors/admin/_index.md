@@ -34,15 +34,15 @@ profiles:
     url: 'mailto:h.zhang2@tue.nl'
     label: E-mail Me
   - icon: brands/instagram
-    url: 'https://www.instagram.com/haoyang93/'
+    url: https://www.instagram.com/haoyang93/
   - icon: brands/github
-    url: 'https://github.com/zhanghaoyang1993'
+    url: https://github.com/zhanghaoyang1993
   - icon: brands/linkedin
-    url: 'https://www.linkedin.com/in/haoyang-zhang-272397138/'
+    url: https://www.linkedin.com/in/haoyang-zhang-272397138/
   - icon: academicons/google-scholar
-    url: 'https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5W8ntj-n79eNJHptWmFJdM5XBicVTxgkMzqwieptdUgOkQbJarJrhaaDP8VIHFOckXBYjybV8MzgHkeTgQ5ROfy&user=-BL6CnoAAAAJ'
+    url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5W8ntj-n79eNJHptWmFJdM5XBicVTxgkMzqwieptdUgOkQbJarJrhaaDP8VIHFOckXBYjybV8MzgHkeTgQ5ROfy&user=-BL6CnoAAAAJ
   - icon: academicons/orcid
-    url: 'https://orcid.org/my-orcid?orcid=0000-0002-3418-0367'
+    url: https://orcid.org/my-orcid?orcid=0000-0002-3418-0367
 
 interests:
   - Electricity market
