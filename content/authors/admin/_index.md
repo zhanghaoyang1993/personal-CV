@@ -79,7 +79,7 @@ education:
       Courses included:
 
 work:
- - position: Visiting Researcher
+  - position: Visiting Researcher
     company_name: Urban Energy Systems Lab of Empa
     company_url: 'https://nccr-automation.ch/about/people/haoyang-zhang'
     company_logo: ''
