@@ -95,7 +95,7 @@ work:
     company_logo: ''
     date_start: 2025-03-03
     date_end: 2025-03-03
-    summary: |Visiting researcher on the electricity market and AI funded by NCCR Automation fellowship
+    summary: |
       Responsibilities include:
       - Local electricity market design
       - Multi-agent reinforcement learning
