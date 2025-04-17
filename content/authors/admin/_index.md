@@ -79,6 +79,16 @@ education:
       Courses included:
 
 work:
+ - position: Visiting Researcher
+    company_name: Urban Energy Systems Lab of Empa
+    company_url: 'https://nccr-automation.ch/about/people/haoyang-zhang'
+    company_logo: ''
+    date_start: 2025-03-03
+    date_end: 2025-07-15
+    summary: |
+      Responsibilities include:
+      - Local electricity market design
+      - Multi-agent reinforcement learning
   - position: Associate researcher
     company_name: Energy Development Research Center of China Southern Power Grid
     company_url: ''
@@ -89,16 +99,16 @@ work:
       Responsibilities include:
       - Energy policy and electricity market analysis
       - Intelligent gathering and editing
-  - position: Visiting Researcher
-    company_name: Urban Energy Systems Lab of Empa
-    company_url: 'https://nccr-automation.ch/about/people/haoyang-zhang'
+  - position: Exchange student
+    company_name: ETH Zürich
+    company_url: ''
     company_logo: ''
-    date_start: 2025-03-03
-    date_end: 2025-07-15
+    date_start: 2017-08-01
+    date_end: 2018-08-01
     summary: |
       Responsibilities include:
-      - Local electricity market design
-      - Multi-agent reinforcement learning
+      - Exchange student via Swiss Mobility Programme
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
