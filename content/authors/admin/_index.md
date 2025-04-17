@@ -94,7 +94,7 @@ work:
     company_url: 'https://nccr-automation.ch/about/people/haoyang-zhang'
     company_logo: ''
     date_start: 2025-03-03
-    date_end: 2025-07-15
+    date_end: ''
     summary: |Visiting researcher on electricity market and AI funded by NCCR Automation fellowship
       Responsibilities include:
       - Local electricity market design
