@@ -79,28 +79,26 @@ education:
       Courses included:
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Associate researcher
+    company_name: Energy Development Research Center of China Southern Power Grid
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-04-01
+    date_end: 2021-08-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Energy policy and electricity market analysis
+      - Intelligent gathering and editing
+  - position: Visiting Researcher
+    company_name: Urban Energy Systems Lab of Empa
+    company_url: 'https://nccr-automation.ch/about/people/haoyang-zhang'
+    company_logo: ''
+    date_start: 2025-03-03
+    date_end: 2025-07-15
+    summary: |Visiting researcher on electricity market and AI funded by NCCR Automation fellowship
+      Responsibilities include:
+      - Local electricity market design
+      - Multi-agent reinforcement learning
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -109,40 +107,58 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: ''
         icon: code-bracket
-      - name: Data Science
+      - name: Gurobi
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: ''
+        icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: ''
+        icon: code-bracket
+      - name: Matlab
+        description: ''
+        percent: ''
+        icon: code-bracket
+      - name: Pytorch
+        description: ''
+        percent: ''
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Karate
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: ''
+        icon: ''
+      - name: Brazilian jiu-jitsu
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: ''
+        icon: ''
+      - name: Kickboxing
         description: ''
-        percent: 80
-        icon: camera
+        percent: ''
+        icon: ''
+      - name: Pilates
+        description: ''
+        percent: ''
+        icon: ''
+      - name: Yoga
+        description: ''
+        percent: ''
+        icon: ''
+      - name: Gym
+        description: ''
+        percent: ''
+        icon: ''
 
 languages:
   - name: English
-    percent: 100
+    percent: ''
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
