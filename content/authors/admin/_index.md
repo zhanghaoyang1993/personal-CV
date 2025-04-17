@@ -25,7 +25,7 @@ role: PhD researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: TU/e-Eindhoven Uniersity of Technology
-    url: https://openai.com/](https://www.tue.nl/en/research/research-groups/electrical-energy-systems/
+    url: https://www.tue.nl/en/research/research-groups/electrical-energy-systems/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:h.zhang2@tue.nl'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/](https://www.instagram.com/haoyang93/
+    url: 'https://www.instagram.com/](https://www.instagram.com/haoyang93/'
   - icon: brands/github
     url: https://github.com/gcushen](https://github.com/zhanghaoyang1993
   - icon: brands/linkedin
